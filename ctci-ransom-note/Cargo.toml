@@ -1,0 +1,7 @@
+[package]
+name = "ctci-ransom-note"
+version = "0.1.0"
+authors = ["Jeff Goldschrafe <jeff@holyhandgrenade.org>"]
+edition = "2018"
+
+[dependencies]
